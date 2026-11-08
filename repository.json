@@ -1,0 +1,16 @@
+{
+  "author": "Tobey Ljungberg",
+  "gitHubUrl": "https://github.com/tobeyljungberg",
+  "packages": [
+    {
+      "name": "Evohome",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/tobeyljungberg/Hubitat-Evohome/main/PackageManifest.json",
+      "description": "Connects Hubitat Elevation to Honeywell/Resideo Evohome. Creates heating-zone thermostats, a system-mode controller and a hot-water device when available. Supports HomeKit zone control, debounced setpoint changes, status polling and reconciliation, Hubitat Away synchronisation, per-zone override preservation, window-contact protection, fault reporting and push notifications. Includes heating-only support and automatic API token renewal.",
+      "tags": [
+        "Convenience"
+      ],
+      "id": "6df85956-e5e2-4e67-a86f-9d0d8f03d37c"
+    }
+  ]
+}
